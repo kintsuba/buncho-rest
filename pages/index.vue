@@ -1,7 +1,7 @@
 <template>
   <div>
     <!--Nav-->
-    <nav class="bg-gray-800 p-2 mt-0 fixed w-full z-10 top-0">
+    <nav class="bg-gray-800 p-2 mt-0 w-full">
       <div class="container mx-auto flex flex-wrap items-center">
         <div
           class="
@@ -21,7 +21,11 @@
     </nav>
 
     <!--Container-->
-    <main class="container mx-auto bg-white mt-24 md:mt-16 h-screen"></main>
+    <main class="container mx-auto bg-white mt-24 md:mt-16 font-body">
+      <div class="mx-4">
+        <p>本文</p>
+      </div>
+    </main>
   </div>
 </template>
 
