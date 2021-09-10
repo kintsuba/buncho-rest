@@ -8,6 +8,7 @@ export default {
   head: {
     htmlAttrs: {
       lang: 'ja',
+      prefix: 'og: http://ogp.me/ns#',
     },
     title: '可愛い文鳥の動画を見て癒されたい！',
     meta: [
@@ -20,6 +21,25 @@ export default {
           '文鳥は飼いたいけど環境的に飼えないので、せめて動画で可愛い姿を見て癒されたい私用のサイトです。',
       },
       { name: 'format-detection', content: 'telephone=no' },
+      {
+        hid: 'og:site_name',
+        property: 'og:site_name',
+        content: '可愛い文鳥の動画を見て癒されたい！',
+      },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:url', property: 'og:url', content: 'https://buncho.rest/' },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: '可愛い文鳥の動画を見て癒されたい！',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: '共通ディスクリプション',
+      },
+      { hid: 'og:image', property: 'og:image', content: '/icon.png' },
+      { name: 'twitter:card', content: 'summary' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
