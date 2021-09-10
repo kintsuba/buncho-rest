@@ -18,7 +18,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          '文鳥は飼いたいけど環境的に飼えないので、せめて動画で可愛い姿を見て癒されたい私用のサイトです。',
+          '文鳥は飼いたいけど環境的に飼えないので、せめて動画で可愛い姿を見て癒されたい私のために作ったサイトです。',
       },
       { name: 'format-detection', content: 'telephone=no' },
       {
@@ -36,7 +36,8 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '共通ディスクリプション',
+        content:
+          '文鳥は飼いたいけど環境的に飼えないので、せめて動画で可愛い姿を見て癒されたい私のために作ったサイトです。',
       },
       { hid: 'og:image', property: 'og:image', content: '/icon.png' },
       { name: 'twitter:card', content: 'summary' },
