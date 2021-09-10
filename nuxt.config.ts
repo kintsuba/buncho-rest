@@ -57,4 +57,11 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  privateRuntimeConfig: {
+    twitterApiKey: process.env.TWITTER_API_KEY,
+    twitterApiSecret: process.env.TWITTER_API_SECRET,
+    twitterAccessToken: process.env.TWITTER_ACCESS_TOKEN,
+    twitterAccessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+  },
 }

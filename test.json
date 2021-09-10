@@ -1,0 +1,2046 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Sep 09 01:57:49 +0000 2021",
+      "id": 1435784474801803300,
+      "id_str": "1435784474801803264",
+      "text": "おはようメイ。寂しげな感じは相変わらず、、握力もここ最近低下している。ショップに捨てられた文鳥なんで何歳かは分からない。ただまだまだ飛翔能力は落ちてない。とり部屋のレイアウトは大体記憶してて右目しか見えないがゆっくり飛んで行きたい… https://t.co/ILkWozBjfd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ILkWozBjfd",
+            "expanded_url": "https://twitter.com/i/web/status/1435784474801803264",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 60465690,
+        "id_str": "60465690",
+        "name": "MIYA＠9/25(土)柏ThumbUp",
+        "screen_name": "Dr_MIYA",
+        "location": "ネイティブヨコスカン。",
+        "description": "VRAINというロックバンドでDr,Syn,Rec～Mastering,作詞作曲編曲など。放し飼い文鳥10羽と暮らしてる元野球少年な現役バンドマン。",
+        "url": "https://t.co/0PMMjED7Kt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0PMMjED7Kt",
+                "expanded_url": "http://vrain.jp/",
+                "display_url": "vrain.jp",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": { "urls": [] }
+        },
+        "protected": false,
+        "followers_count": 3170,
+        "friends_count": 994,
+        "listed_count": 47,
+        "created_at": "Mon Jul 27 02:40:26 +0000 2009",
+        "favourites_count": 204,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20307,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2911603601/7c125275a0dfc5cc88f9dee7b4fdb0f9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2911603601/7c125275a0dfc5cc88f9dee7b4fdb0f9_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60465690/1416665161",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 147,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Wed Sep 08 08:51:11 +0000 2021",
+      "id": 1435526115162869800,
+      "id_str": "1435526115162869767",
+      "text": "文鳥寝てます https://t.co/kmTX3Ao2ul",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435526040978223000,
+            "id_str": "1435526040978223108",
+            "indices": [7, 30],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435526040978223108/pu/img/VU-E9k0_YASkxKLg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435526040978223108/pu/img/VU-E9k0_YASkxKLg.jpg",
+            "url": "https://t.co/kmTX3Ao2ul",
+            "display_url": "pic.twitter.com/kmTX3Ao2ul",
+            "expanded_url": "https://twitter.com/toshivoice11/status/1435526115162869767/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435526040978223000,
+            "id_str": "1435526040978223108",
+            "indices": [7, 30],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435526040978223108/pu/img/VU-E9k0_YASkxKLg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435526040978223108/pu/img/VU-E9k0_YASkxKLg.jpg",
+            "url": "https://t.co/kmTX3Ao2ul",
+            "display_url": "pic.twitter.com/kmTX3Ao2ul",
+            "expanded_url": "https://twitter.com/toshivoice11/status/1435526115162869767/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [16, 9],
+              "duration_millis": 10178,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435526040978223108/pu/vid/1280x720/owP-tVG5Sgi4Y66z.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435526040978223108/pu/vid/640x360/QetRStlpuIxjOZTk.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435526040978223108/pu/vid/480x270/AJ3RnUSbb_odOLK7.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435526040978223108/pu/pl/Owg7CwYqf1H_aCMe.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 725878172856647700,
+        "id_str": "725878172856647684",
+        "name": "toshivoice",
+        "screen_name": "toshivoice11",
+        "location": "神奈川⇄東京",
+        "description": "いろんなとこ行った記録、うちのかわいい文鳥",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 1876,
+        "friends_count": 804,
+        "listed_count": 25,
+        "created_at": "Fri Apr 29 02:43:37 +0000 2016",
+        "favourites_count": 26638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725935751460884480/SlLWckP2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/725935751460884480/SlLWckP2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725878172856647684/1589797174",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 69,
+      "favorite_count": 745,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Wed Sep 08 03:59:50 +0000 2021",
+      "id": 1435452797084786700,
+      "id_str": "1435452797084786695",
+      "text": "コンニチワ\n\n文鳥看護ケースの警備員デス https://t.co/urN1QyqpIs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435452726750552000,
+            "id_str": "1435452726750552069",
+            "indices": [21, 44],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435452726750552069/pu/img/ZReTFtTHg_DHXfnn.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435452726750552069/pu/img/ZReTFtTHg_DHXfnn.jpg",
+            "url": "https://t.co/urN1QyqpIs",
+            "display_url": "pic.twitter.com/urN1QyqpIs",
+            "expanded_url": "https://twitter.com/bono2019/status/1435452797084786695/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435452726750552000,
+            "id_str": "1435452726750552069",
+            "indices": [21, 44],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435452726750552069/pu/img/ZReTFtTHg_DHXfnn.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435452726750552069/pu/img/ZReTFtTHg_DHXfnn.jpg",
+            "url": "https://t.co/urN1QyqpIs",
+            "display_url": "pic.twitter.com/urN1QyqpIs",
+            "expanded_url": "https://twitter.com/bono2019/status/1435452797084786695/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 34425,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435452726750552069/pu/vid/320x568/m5t_3uwyc8i9CWaN.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435452726750552069/pu/vid/480x852/bJCVl6biiNAeQ5SM.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435452726750552069/pu/vid/720x1280/jtzsYrXY55MvYkFT.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435452726750552069/pu/pl/14qxrD1dYapnxQt0.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1150867182424748000,
+        "id_str": "1150867182424748033",
+        "name": "小鳥レスキュー隊の隊長",
+        "screen_name": "bono2019",
+        "location": "埼玉県戸田市美女木1-18-6",
+        "description": "NPO法人小鳥レスキュー会 レスキュー隊長bonoの Twitter (=^x^=) https://t.co/m8v70F7vMf NPO法人小鳥レスキュー会 鳥の保護施【鳥の駅】運営 現在750羽の鳥を保護飼養中 レスキューの現場を直接お伝えします。 警察署との提携により放置迷子の鳥も保護しています。",
+        "url": "https://t.co/m8v70F7vMf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/m8v70F7vMf",
+                "expanded_url": "http://www.kotori99.org",
+                "display_url": "kotori99.org",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/m8v70F7vMf",
+                "expanded_url": "http://www.kotori99.org",
+                "display_url": "kotori99.org",
+                "indices": [43, 66]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17371,
+        "friends_count": 1,
+        "listed_count": 122,
+        "created_at": "Mon Jul 15 20:38:13 +0000 2019",
+        "favourites_count": 121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6211,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150867673250770944/-dUxcu8P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150867673250770944/-dUxcu8P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150867182424748033/1563224695",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 420,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Wed Sep 08 00:20:13 +0000 2021",
+      "id": 1435397525972795400,
+      "id_str": "1435397525972795395",
+      "text": "フコフコ文鳥はいかが？☺️❣️ https://t.co/xdmA7VRHmW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435397471870480400,
+            "id_str": "1435397471870480385",
+            "indices": [16, 39],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435397471870480385/pu/img/r0sHE4s36rMNGRyD.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435397471870480385/pu/img/r0sHE4s36rMNGRyD.jpg",
+            "url": "https://t.co/xdmA7VRHmW",
+            "display_url": "pic.twitter.com/xdmA7VRHmW",
+            "expanded_url": "https://twitter.com/karusedoni74/status/1435397525972795395/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435397471870480400,
+            "id_str": "1435397471870480385",
+            "indices": [16, 39],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435397471870480385/pu/img/r0sHE4s36rMNGRyD.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435397471870480385/pu/img/r0sHE4s36rMNGRyD.jpg",
+            "url": "https://t.co/xdmA7VRHmW",
+            "display_url": "pic.twitter.com/xdmA7VRHmW",
+            "expanded_url": "https://twitter.com/karusedoni74/status/1435397525972795395/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 23000,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435397471870480385/pu/vid/720x1280/P4CglRIjRl7SefUD.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435397471870480385/pu/vid/480x852/GhcpC8A9Z5Zuxufr.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435397471870480385/pu/pl/eZ_e5ClVQ4PFlzMi.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435397471870480385/pu/vid/320x568/9QvNB8i4jOpd1ADp.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2737275408,
+        "id_str": "2737275408",
+        "name": "文鳥タクシー　楓🍁",
+        "screen_name": "karusedoni74",
+        "location": "滋賀 県　湖南市",
+        "description": "H30.11/8に、桜文鳥のお萩、牡丹、セキセイインコのキィウィがファミリーとなりました。令和3年1月に虐待されていたジャンボセキセイインコテンも仲間入り🎶5月18日に、生後半年のごま文アズキが仲間入り❤️☺️アズキは荒鳥さんですが、頑張ってうちの子になりつつあります☺️❤️",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 1666,
+        "friends_count": 2752,
+        "listed_count": 7,
+        "created_at": "Sat Aug 16 14:13:28 +0000 2014",
+        "favourites_count": 59116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22601,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405654931160272899/tHno49Pu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405654931160272899/tHno49Pu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2737275408/1587945503",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 261,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 14:05:42 +0000 2021",
+      "id": 1435242878654025700,
+      "id_str": "1435242878654025736",
+      "text": "#文鳥 https://t.co/l6B0pNVff1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [{ "text": "文鳥", "indices": [0, 3] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435242795602571300,
+            "id_str": "1435242795602571271",
+            "indices": [4, 27],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435242795602571271/pu/img/-fzS9x8WvJjBwkG_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435242795602571271/pu/img/-fzS9x8WvJjBwkG_.jpg",
+            "url": "https://t.co/l6B0pNVff1",
+            "display_url": "pic.twitter.com/l6B0pNVff1",
+            "expanded_url": "https://twitter.com/torimoriko/status/1435242878654025736/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 980, "h": 1280, "resize": "fit" },
+              "small": { "w": 521, "h": 680, "resize": "fit" },
+              "medium": { "w": 919, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435242795602571300,
+            "id_str": "1435242795602571271",
+            "indices": [4, 27],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435242795602571271/pu/img/-fzS9x8WvJjBwkG_.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435242795602571271/pu/img/-fzS9x8WvJjBwkG_.jpg",
+            "url": "https://t.co/l6B0pNVff1",
+            "display_url": "pic.twitter.com/l6B0pNVff1",
+            "expanded_url": "https://twitter.com/torimoriko/status/1435242878654025736/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 980, "h": 1280, "resize": "fit" },
+              "small": { "w": 521, "h": 680, "resize": "fit" },
+              "medium": { "w": 919, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [49, 64],
+              "duration_millis": 18950,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435242795602571271/pu/vid/720x940/a-OOffJJlxGthKOp.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435242795602571271/pu/vid/320x416/f8NCVfE0CXsWEwWX.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435242795602571271/pu/vid/480x626/0pn_eopNZ3D7HJoy.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435242795602571271/pu/pl/NAhLMWkM5YPUx6My.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "und", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1267022739585462300,
+        "id_str": "1267022739585462274",
+        "name": "とりもり",
+        "screen_name": "torimoriko",
+        "location": "おにぎり村",
+        "description": "２羽の文鳥と暮らしています。",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 1341,
+        "friends_count": 476,
+        "listed_count": 22,
+        "created_at": "Sun May 31 09:19:10 +0000 2020",
+        "favourites_count": 20124,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7719,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414969314487070726/-RMbqM0L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414969314487070726/-RMbqM0L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267022739585462274/1630324988",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 45,
+      "favorite_count": 556,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Sep 07 13:16:35 +0000 2021",
+      "id": 1435230519642390500,
+      "id_str": "1435230519642390534",
+      "text": "セコちゃんのダンス隠し撮りしたんですが、いろいろと味わい深いので見てもらえますか？#buncho #文鳥 https://t.co/2zmGCVKMkU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          { "text": "buncho", "indices": [41, 48] },
+          { "text": "文鳥", "indices": [49, 52] }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435230303111430100,
+            "id_str": "1435230303111430148",
+            "indices": [53, 76],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435230303111430148/pu/img/rqyiqrl9qSp5wkR3.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435230303111430148/pu/img/rqyiqrl9qSp5wkR3.jpg",
+            "url": "https://t.co/2zmGCVKMkU",
+            "display_url": "pic.twitter.com/2zmGCVKMkU",
+            "expanded_url": "https://twitter.com/91chan_/status/1435230519642390534/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435230303111430100,
+            "id_str": "1435230303111430148",
+            "indices": [53, 76],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435230303111430148/pu/img/rqyiqrl9qSp5wkR3.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435230303111430148/pu/img/rqyiqrl9qSp5wkR3.jpg",
+            "url": "https://t.co/2zmGCVKMkU",
+            "display_url": "pic.twitter.com/2zmGCVKMkU",
+            "expanded_url": "https://twitter.com/91chan_/status/1435230519642390534/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [16, 9],
+              "duration_millis": 33763,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435230303111430148/pu/vid/1280x720/OvLvIR8g-gXi2USC.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435230303111430148/pu/pl/e5Uq_9gXg9L8_sO8.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435230303111430148/pu/vid/640x360/diezw6vZdBQEck-g.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435230303111430148/pu/vid/480x270/7gVfTLKwRaaKeAoU.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1683397562,
+        "id_str": "1683397562",
+        "name": "クイちゃん🛺",
+        "screen_name": "91chan_",
+        "location": "みかんの国",
+        "description": "【クイちゃん】本名 マレーバ・クイ｜桜文鳥♀｜ 11/1生・10才｜職業 モデル｜特徴 ごま塩とエッグボディ｜体重 すだち1個分｜好物 みかん｜趣味 ペヤング水浴び【セコちゃん】本名 カッパーノ・セコ｜シナモンパイド文鳥？♂｜5/27生・4才｜職業 占い師｜特徴 おこげ｜性格 生真面目で陽気｜＊画像の無断転載禁止＊",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 4238,
+        "friends_count": 466,
+        "listed_count": 95,
+        "created_at": "Mon Aug 19 14:24:16 +0000 2013",
+        "favourites_count": 64404,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30991,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1434864578416898058/UARua6se_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434864578416898058/UARua6se_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683397562/1437920229",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 53,
+      "favorite_count": 545,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 11:44:19 +0000 2021",
+      "id": 1435207297588875300,
+      "id_str": "1435207297588875266",
+      "text": "まだ遊び足りなくて、出して欲しいアピール🐤💦💦💦\n\n⚠️足のパタパタが高速ですが、早送りではありません（笑）\n\n＃文鳥\n#シルバー文鳥 https://t.co/iQB7USyN0k",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          { "text": "文鳥", "indices": [56, 59] },
+          { "text": "シルバー文鳥", "indices": [60, 67] }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435207247450148900,
+            "id_str": "1435207247450148869",
+            "indices": [68, 91],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435207247450148869/pu/img/egXqD5J7cFGBVA-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435207247450148869/pu/img/egXqD5J7cFGBVA-P.jpg",
+            "url": "https://t.co/iQB7USyN0k",
+            "display_url": "pic.twitter.com/iQB7USyN0k",
+            "expanded_url": "https://twitter.com/kankanyuga/status/1435207297588875266/video/1",
+            "type": "photo",
+            "sizes": {
+              "medium": { "w": 686, "h": 662, "resize": "fit" },
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 686, "h": 662, "resize": "fit" },
+              "small": { "w": 680, "h": 656, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435207247450148900,
+            "id_str": "1435207247450148869",
+            "indices": [68, 91],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435207247450148869/pu/img/egXqD5J7cFGBVA-P.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435207247450148869/pu/img/egXqD5J7cFGBVA-P.jpg",
+            "url": "https://t.co/iQB7USyN0k",
+            "display_url": "pic.twitter.com/iQB7USyN0k",
+            "expanded_url": "https://twitter.com/kankanyuga/status/1435207297588875266/video/1",
+            "type": "video",
+            "sizes": {
+              "medium": { "w": 686, "h": 662, "resize": "fit" },
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 686, "h": 662, "resize": "fit" },
+              "small": { "w": 680, "h": 656, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [343, 331],
+              "duration_millis": 18762,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435207247450148869/pu/vid/278x270/GWjbyYdTfDqFJstV.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435207247450148869/pu/pl/u8Qyt9YZPeKrt5Bm.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435207247450148869/pu/vid/372x360/TgmHlzJCR8qC0an2.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435207247450148869/pu/vid/686x662/0jikSQSH01V9Ob1A.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1205704936845009000,
+        "id_str": "1205704936845008896",
+        "name": "そら🕊 シルバー文鳥🍀",
+        "screen_name": "kankanyuga",
+        "location": "",
+        "description": "文鳥雛をお迎えし、文鳥愛に目覚めた私です😊 シルバー文鳥お迎え🐤（2021.4.29頃生まれの雛）文鳥好きさんと仲良くなりたい💕無言フォロー失礼します🐤 さし餌の頃、よく開口呼吸をして病院へ。文鳥飼育初心者🔰そらを幸せにするために、勉強するぞ🐤",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 400,
+        "friends_count": 378,
+        "listed_count": 2,
+        "created_at": "Sat Dec 14 04:24:00 +0000 2019",
+        "favourites_count": 15167,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1241,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403902418874556417/BnjBjFGn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403902418874556417/BnjBjFGn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205704936845008896/1623536039",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 171,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 10:05:47 +0000 2021",
+      "id": 1435182503736737800,
+      "id_str": "1435182503736737794",
+      "text": "水浴び文鳥🚿 https://t.co/auqT1tuYIG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435172956468957200,
+            "id_str": "1435172956468957196",
+            "indices": [7, 30],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435172956468957196/pu/img/RB_9RuzCwZnXqyr2.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435172956468957196/pu/img/RB_9RuzCwZnXqyr2.jpg",
+            "url": "https://t.co/auqT1tuYIG",
+            "display_url": "pic.twitter.com/auqT1tuYIG",
+            "expanded_url": "https://twitter.com/Buncho_Spica217/status/1435182503736737794/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435172956468957200,
+            "id_str": "1435172956468957196",
+            "indices": [7, 30],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435172956468957196/pu/img/RB_9RuzCwZnXqyr2.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435172956468957196/pu/img/RB_9RuzCwZnXqyr2.jpg",
+            "url": "https://t.co/auqT1tuYIG",
+            "display_url": "pic.twitter.com/auqT1tuYIG",
+            "expanded_url": "https://twitter.com/Buncho_Spica217/status/1435182503736737794/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [16, 9],
+              "duration_millis": 44090,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435172956468957196/pu/vid/1280x720/twnIpTUeH2kdJLYL.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435172956468957196/pu/vid/640x360/wQnfgKrUIf2rbQDk.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435172956468957196/pu/vid/480x270/C0i1QSBOTsSeDqe0.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435172956468957196/pu/pl/ar8FfzM4CsjiEdEk.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1285006178368381000,
+        "id_str": "1285006178368380930",
+        "name": "スピカ✨",
+        "screen_name": "Buncho_Spica217",
+        "location": "",
+        "description": "2020年2月下旬生まれスピカちゃんです🐧最近の呼び方はちゅぴ☺️2020/7/19にお迎えしました🤗飼い主は都内の大学生です👩🏻‍💻誤RT多め&リプは気まぐれです🙇🏻‍♀️",
+        "url": "https://t.co/0Gg0SXPpbk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0Gg0SXPpbk",
+                "expanded_url": "https://clubt.jp/shop/S0000108123.html",
+                "display_url": "clubt.jp/shop/S00001081…",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": { "urls": [] }
+        },
+        "protected": false,
+        "followers_count": 383,
+        "friends_count": 327,
+        "listed_count": 3,
+        "created_at": "Mon Jul 20 00:18:58 +0000 2020",
+        "favourites_count": 13342,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1374679528623255558/mXH9UOUs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374679528623255558/mXH9UOUs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285006178368380930/1616583797",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 180,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 09:54:10 +0000 2021",
+      "id": 1435179576943018000,
+      "id_str": "1435179576943017985",
+      "text": "考える文鳥 https://t.co/phKDXnVbKG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435179536174309400,
+            "id_str": "1435179536174309376",
+            "indices": [6, 29],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435179536174309376/pu/img/kn4FN3b1bs0RLAKf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435179536174309376/pu/img/kn4FN3b1bs0RLAKf.jpg",
+            "url": "https://t.co/phKDXnVbKG",
+            "display_url": "pic.twitter.com/phKDXnVbKG",
+            "expanded_url": "https://twitter.com/mameumemofutiri/status/1435179576943017985/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435179536174309400,
+            "id_str": "1435179536174309376",
+            "indices": [6, 29],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435179536174309376/pu/img/kn4FN3b1bs0RLAKf.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435179536174309376/pu/img/kn4FN3b1bs0RLAKf.jpg",
+            "url": "https://t.co/phKDXnVbKG",
+            "display_url": "pic.twitter.com/phKDXnVbKG",
+            "expanded_url": "https://twitter.com/mameumemofutiri/status/1435179576943017985/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [16, 9],
+              "duration_millis": 5263,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435179536174309376/pu/pl/izOqmrA4Uzf_LY1q.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435179536174309376/pu/vid/640x360/uXsDzJJ5RBToKBYi.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435179536174309376/pu/vid/480x270/1p4A1sCHVsJXk3vK.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435179536174309376/pu/vid/1280x720/Z1eVGzYWV2uBoW5z.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1193142168040300500,
+        "id_str": "1193142168040300544",
+        "name": "まめとうめ",
+        "screen_name": "mameumemofutiri",
+        "location": "",
+        "description": "ありのままの鳥達が大好き🌱コメントに返信できる時は返信させていただきます😊できない時はおそらく文鳥のチリを追っています☀️2019年11月にお迎え、まめ（桜）うめ（白）どっちも男の子です🐥プロフィールのイラストはさくらたんぽぽさんより🌸 フォロバ遅いかもしれません🌻",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 5400,
+        "friends_count": 678,
+        "listed_count": 78,
+        "created_at": "Sat Nov 09 12:24:15 +0000 2019",
+        "favourites_count": 12511,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3185,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1430505269688033287/GIeUoQ5y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1430505269688033287/GIeUoQ5y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1193142168040300544/1573532873",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 417,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 06:55:34 +0000 2021",
+      "id": 1435134633822208000,
+      "id_str": "1435134633822208005",
+      "text": "歌い出しは出来てきた？ #buncho #文鳥 https://t.co/bqCVu19uFj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          { "text": "buncho", "indices": [12, 19] },
+          { "text": "文鳥", "indices": [20, 23] }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435134513307218000,
+            "id_str": "1435134513307217920",
+            "indices": [24, 47],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435134513307217920/pu/img/Q3-tdqXu99rVeo49.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435134513307217920/pu/img/Q3-tdqXu99rVeo49.jpg",
+            "url": "https://t.co/bqCVu19uFj",
+            "display_url": "pic.twitter.com/bqCVu19uFj",
+            "expanded_url": "https://twitter.com/minakaming/status/1435134633822208005/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435134513307218000,
+            "id_str": "1435134513307217920",
+            "indices": [24, 47],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435134513307217920/pu/img/Q3-tdqXu99rVeo49.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435134513307217920/pu/img/Q3-tdqXu99rVeo49.jpg",
+            "url": "https://t.co/bqCVu19uFj",
+            "display_url": "pic.twitter.com/bqCVu19uFj",
+            "expanded_url": "https://twitter.com/minakaming/status/1435134633822208005/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 30000,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435134513307217920/pu/vid/320x568/lghv8j2V5b4z_YXC.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435134513307217920/pu/vid/480x852/uDEf2TPHyX4AhHna.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435134513307217920/pu/vid/720x1280/CmWb15iX2sMsZW9J.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435134513307217920/pu/pl/0Ci-yYMUiwmv8R1s.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 123369656,
+        "id_str": "123369656",
+        "name": "水上カオリ",
+        "screen_name": "minakaming",
+        "location": "",
+        "description": "絵を描いて暮らしてます。仕事のことや絵のこと、鳥（特に文鳥）のことを呟くアカウント。文鳥グッズサークル「ことりマニア」についてはこちらをご覧ください→ https://t.co/WTshewyZWl",
+        "url": "https://t.co/VlYd9VDseb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VlYd9VDseb",
+                "expanded_url": "http://gardenblue.info/",
+                "display_url": "gardenblue.info",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/WTshewyZWl",
+                "expanded_url": "https://minne.com/kotori-mania/",
+                "display_url": "minne.com/kotori-mania/",
+                "indices": [76, 99]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5139,
+        "friends_count": 397,
+        "listed_count": 186,
+        "created_at": "Mon Mar 15 21:56:17 +0000 2010",
+        "favourites_count": 53553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30009,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BDFDFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1279612878283091968/kjf7HVab_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279612878283091968/kjf7HVab_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123369656/1612791343",
+        "profile_link_color": "91D0CD",
+        "profile_sidebar_border_color": "4FBDB2",
+        "profile_sidebar_fill_color": "FFF1CC",
+        "profile_text_color": "512322",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 123,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Sep 07 04:15:38 +0000 2021",
+      "id": 1435094382932156400,
+      "id_str": "1435094382932156421",
+      "text": "チビ文鳥は\n\n今朝　新しい家族に引き継ぎ\nました。\n目が開かないときからごはん\nをあげてたので　少しさみし\nいですが、なつく前に\n\nこちらの新人はまだ　手がかかる https://t.co/n2dnJRTDBz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1435094345225367600,
+            "id_str": "1435094345225367557",
+            "indices": [82, 105],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435094345225367557/pu/img/Be3IEBMZtQ8JHzob.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435094345225367557/pu/img/Be3IEBMZtQ8JHzob.jpg",
+            "url": "https://t.co/n2dnJRTDBz",
+            "display_url": "pic.twitter.com/n2dnJRTDBz",
+            "expanded_url": "https://twitter.com/bono2019/status/1435094382932156421/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435094345225367600,
+            "id_str": "1435094345225367557",
+            "indices": [82, 105],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435094345225367557/pu/img/Be3IEBMZtQ8JHzob.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435094345225367557/pu/img/Be3IEBMZtQ8JHzob.jpg",
+            "url": "https://t.co/n2dnJRTDBz",
+            "display_url": "pic.twitter.com/n2dnJRTDBz",
+            "expanded_url": "https://twitter.com/bono2019/status/1435094382932156421/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 8640,
+              "variants": [
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435094345225367557/pu/vid/480x852/U8HyQ8kopN-PsesF.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1435094345225367557/pu/pl/r6aY8gsotQDEmxhH.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435094345225367557/pu/vid/720x1280/VRPvQOHlNo3oggEg.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1435094345225367557/pu/vid/320x568/l5VwopdkoMb88CxD.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1150867182424748000,
+        "id_str": "1150867182424748033",
+        "name": "小鳥レスキュー隊の隊長",
+        "screen_name": "bono2019",
+        "location": "埼玉県戸田市美女木1-18-6",
+        "description": "NPO法人小鳥レスキュー会 レスキュー隊長bonoの Twitter (=^x^=) https://t.co/m8v70F7vMf NPO法人小鳥レスキュー会 鳥の保護施【鳥の駅】運営 現在750羽の鳥を保護飼養中 レスキューの現場を直接お伝えします。 警察署との提携により放置迷子の鳥も保護しています。",
+        "url": "https://t.co/m8v70F7vMf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/m8v70F7vMf",
+                "expanded_url": "http://www.kotori99.org",
+                "display_url": "kotori99.org",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/m8v70F7vMf",
+                "expanded_url": "http://www.kotori99.org",
+                "display_url": "kotori99.org",
+                "indices": [43, 66]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17371,
+        "friends_count": 1,
+        "listed_count": 122,
+        "created_at": "Mon Jul 15 20:38:13 +0000 2019",
+        "favourites_count": 121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6211,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150867673250770944/-dUxcu8P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150867673250770944/-dUxcu8P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150867182424748033/1563224695",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 468,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Mon Sep 06 12:46:35 +0000 2021",
+      "id": 1434860582021173200,
+      "id_str": "1434860582021173248",
+      "text": "偶然に青米が落ちる！！\nなんだ？これ！！？？興味津々、フォージングスピンがそらを惹きつけて離しません‼️\n#文鳥\n#フォージングスピン https://t.co/MjMdLnjGNf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          { "text": "文鳥", "indices": [53, 56] },
+          { "text": "フォージングスピン", "indices": [57, 67] }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1434860371332894700,
+            "id_str": "1434860371332894721",
+            "indices": [68, 91],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434860371332894721/pu/img/wp35ZpCuXhAvXugy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434860371332894721/pu/img/wp35ZpCuXhAvXugy.jpg",
+            "url": "https://t.co/MjMdLnjGNf",
+            "display_url": "pic.twitter.com/MjMdLnjGNf",
+            "expanded_url": "https://twitter.com/kankanyuga/status/1434860582021173248/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1434860371332894700,
+            "id_str": "1434860371332894721",
+            "indices": [68, 91],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434860371332894721/pu/img/wp35ZpCuXhAvXugy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434860371332894721/pu/img/wp35ZpCuXhAvXugy.jpg",
+            "url": "https://t.co/MjMdLnjGNf",
+            "display_url": "pic.twitter.com/MjMdLnjGNf",
+            "expanded_url": "https://twitter.com/kankanyuga/status/1434860582021173248/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 83838,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1434860371332894721/pu/pl/D5ZXZj-2GonNunAX.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434860371332894721/pu/vid/480x852/etL-J_ijhWZipgyv.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434860371332894721/pu/vid/320x568/sdAsKqhUO-gt8xp_.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434860371332894721/pu/vid/720x1280/4VEwZduCgquIXFou.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1205704936845009000,
+        "id_str": "1205704936845008896",
+        "name": "そら🕊 シルバー文鳥🍀",
+        "screen_name": "kankanyuga",
+        "location": "",
+        "description": "文鳥雛をお迎えし、文鳥愛に目覚めた私です😊 シルバー文鳥お迎え🐤（2021.4.29頃生まれの雛）文鳥好きさんと仲良くなりたい💕無言フォロー失礼します🐤 さし餌の頃、よく開口呼吸をして病院へ。文鳥飼育初心者🔰そらを幸せにするために、勉強するぞ🐤",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 400,
+        "friends_count": 378,
+        "listed_count": 2,
+        "created_at": "Sat Dec 14 04:24:00 +0000 2019",
+        "favourites_count": 15167,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1241,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403902418874556417/BnjBjFGn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403902418874556417/BnjBjFGn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205704936845008896/1623536039",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 111,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Mon Sep 06 11:13:51 +0000 2021",
+      "id": 1434837245077250000,
+      "id_str": "1434837245077250050",
+      "text": "鈴と一体化しかけている\n #文鳥 https://t.co/GrP8ScB5xy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [{ "text": "文鳥", "indices": [13, 16] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1434837198013042700,
+            "id_str": "1434837198013042691",
+            "indices": [17, 40],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434837198013042691/pu/img/WMAkNdd3DlR5wByo.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434837198013042691/pu/img/WMAkNdd3DlR5wByo.jpg",
+            "url": "https://t.co/GrP8ScB5xy",
+            "display_url": "pic.twitter.com/GrP8ScB5xy",
+            "expanded_url": "https://twitter.com/pony_00/status/1434837245077250050/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1434837198013042700,
+            "id_str": "1434837198013042691",
+            "indices": [17, 40],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434837198013042691/pu/img/WMAkNdd3DlR5wByo.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434837198013042691/pu/img/WMAkNdd3DlR5wByo.jpg",
+            "url": "https://t.co/GrP8ScB5xy",
+            "display_url": "pic.twitter.com/GrP8ScB5xy",
+            "expanded_url": "https://twitter.com/pony_00/status/1434837245077250050/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "large": { "w": 1280, "h": 720, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [16, 9],
+              "duration_millis": 4621,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434837198013042691/pu/vid/480x270/fcbgnaRXXlIA7FX3.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434837198013042691/pu/vid/1280x720/-J4CiKsDwwQ09XJI.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434837198013042691/pu/vid/640x360/5Mk_NpBu3D4I2mrN.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1434837198013042691/pu/pl/8esxBCblTjFvNgUE.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1971421452,
+        "id_str": "1971421452",
+        "name": "pony🍽",
+        "screen_name": "pony_00",
+        "location": "世界一有名な鼠が近くにいる",
+        "description": "白文鳥のまろちゃん（6歳）と暮らしてます。1〜2日に一回の頻度で文鳥写真を投稿してます。たまに日常やイラストも。文鳥の写真を見るとすぐいいねしてしまいがち。料理の写真も好きです🍴※2020〜投稿開始。趣味:カレー、カフェ、ジム。超早寝早起き。",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 1431,
+        "friends_count": 774,
+        "listed_count": 26,
+        "created_at": "Sat Oct 19 12:23:58 +0000 2013",
+        "favourites_count": 75771,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2266,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233909037227376640/3u7LG5VA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233909037227376640/3u7LG5VA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971421452/1593151311",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 392,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Sun Sep 05 21:56:37 +0000 2021",
+      "id": 1434636612739027000,
+      "id_str": "1434636612739026947",
+      "text": "ぷぷは、先日体調を崩して心配でしたが週末からすっかり元気になりました。\n#buncho #文鳥 https://t.co/kr1uQV22Zu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          { "text": "buncho", "indices": [36, 43] },
+          { "text": "文鳥", "indices": [45, 48] }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1434636583743811600,
+            "id_str": "1434636583743811585",
+            "indices": [49, 72],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434636583743811585/pu/img/Ahyt8qbX0s3DGRRq.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434636583743811585/pu/img/Ahyt8qbX0s3DGRRq.jpg",
+            "url": "https://t.co/kr1uQV22Zu",
+            "display_url": "pic.twitter.com/kr1uQV22Zu",
+            "expanded_url": "https://twitter.com/JR7COO/status/1434636612739026947/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1434636583743811600,
+            "id_str": "1434636583743811585",
+            "indices": [49, 72],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434636583743811585/pu/img/Ahyt8qbX0s3DGRRq.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434636583743811585/pu/img/Ahyt8qbX0s3DGRRq.jpg",
+            "url": "https://t.co/kr1uQV22Zu",
+            "display_url": "pic.twitter.com/kr1uQV22Zu",
+            "expanded_url": "https://twitter.com/JR7COO/status/1434636612739026947/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 383, "h": 680, "resize": "fit" },
+              "large": { "w": 720, "h": 1280, "resize": "fit" },
+              "medium": { "w": 675, "h": 1200, "resize": "fit" }
+            },
+            "video_info": {
+              "aspect_ratio": [9, 16],
+              "duration_millis": 13363,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434636583743811585/pu/vid/720x1280/OuoIxy7TSoMojkRf.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1434636583743811585/pu/pl/oN26Nx_VK69rC0bb.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434636583743811585/pu/vid/480x852/1QUKTtAi7Ktib4HX.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1434636583743811585/pu/vid/320x568/WNaykc_q7pLlYyNd.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": { "monetizable": false }
+          }
+        ]
+      },
+      "metadata": { "iso_language_code": "ja", "result_type": "recent" },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 187421011,
+        "id_str": "187421011",
+        "name": "JR7COO",
+        "screen_name": "JR7COO",
+        "location": "横浜市緑区",
+        "description": "文鳥４羽を飼っています。知人への近況報告を目的にしていますので同じような内容になってしまいます。文鳥の飼主様へは、無言でフォローをさせて頂くことがありますが、どうぞよろしくお願いします。",
+        "url": null,
+        "entities": { "description": { "urls": [] } },
+        "protected": false,
+        "followers_count": 1133,
+        "friends_count": 765,
+        "listed_count": 13,
+        "created_at": "Mon Sep 06 05:00:00 +0000 2010",
+        "favourites_count": 93593,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4426,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186397172536791040/jctZpZch_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186397172536791040/jctZpZch_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187421011/1450332843",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 115,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.098,
+    "max_id": 1435784474801803300,
+    "max_id_str": "1435784474801803264",
+    "next_results": "?max_id=1434636612739026946&q=%E6%96%87%E9%B3%A5%20min_faves%3A100%20filter%3Anative_video&include_entities=1",
+    "query": "%E6%96%87%E9%B3%A5+min_faves%3A100+filter%3Anative_video",
+    "refresh_url": "?since_id=1435784474801803264&q=%E6%96%87%E9%B3%A5%20min_faves%3A100%20filter%3Anative_video&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
