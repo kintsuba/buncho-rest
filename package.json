@@ -24,7 +24,7 @@
     "nuxt-windicss": "^1.1.1",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
-    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-prettier": "^9.0.2",
     "stylelint-config-standard": "^22.0.0"
   }
 }
